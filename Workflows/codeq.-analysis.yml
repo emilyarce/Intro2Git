@@ -1,0 +1,12 @@
+# For most projects. this workflow file will not need cnanging; you simply nee to commit it to your repository.
+# to commit it to your repository. 
+#
+# You may wish to alter this file to override the set of languages analyzed,o
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the 'language' matrix defined belowto confirm you have the correct set of 
+# supported CodeQL languages.
+#
+name: "CodeQL'
